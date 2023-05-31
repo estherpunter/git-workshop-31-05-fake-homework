@@ -1,0 +1,13 @@
+body {
+    background-color: deepskyblue;
+    color: white;
+}
+
+h1 {
+    font-weight: bold;
+    padding: 20px;
+}
+
+h2 {
+    font-weight: italic;
+}
