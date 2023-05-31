@@ -5,9 +5,10 @@ body {
 
 h1 {
     font-weight: bold;
-    padding: 20px;
+    padding: 40px;
 }
 
 h2 {
-    font-weight: italic;
+    font-weight: bold;
+    text-decoration: underline;
 }
